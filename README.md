@@ -6,7 +6,7 @@ A awesome list about Software Defined Network (SDN)
   - [Software Switch](#software-switch)
   - [Protocol](#protocol)
   - [Controller](#controller)
-  - [Simulator/Emulator](#simulatoremulator)
+  - [Simulator/Emulator](#Simulator/Emulator)
   - [Language](#language)
   - [Library](#Library)
   - [Test](#Test)
@@ -25,7 +25,6 @@ A awesome list about Software Defined Network (SDN)
 - [OVSDB](https://tools.ietf.org/html/rfc7047) - A communication protocol which used to manage the OpenvSwitch database.
 
 # Controller
-
 - [NOX](www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
 - [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
 - [ONOS](onosproject.org) - Open Network Operating System.
@@ -33,6 +32,12 @@ A awesome list about Software Defined Network (SDN)
 - [POX](www.noxrepo.org/pox) - A networking software platform written in Python
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
 - [Floodlight](http://www.projectfloodlight.org/floodlight/) - A java-based openflow controller.
+- [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
+- [OpenContrail](http://www.opencontrail.org/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
+- [IRIS](http://openiris.etri.re.kr/) - A Resursive SDN Openflow Controller created by SDN Research Section, ETRI.
+- [Open MUL](http://www.openmul.org/openmul-controller.html) - A lightweight SDN/Openflow controller written almost entirely in C from scratch.
+- [OESS](https://github.com/globalnoc/oess) - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
+
 
 # Simulator/Emulator
 
@@ -47,11 +52,6 @@ A awesome list about Software Defined Network (SDN)
 
 # Library
 - [loxigen](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
-- [openfaucet](https://github.com/rlenglet/openfaucet) - openfaucet is a pure Python implementation of the OpenFlow 1.0.0
-protocol, based on Twisted.
-- [oflib-node](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
-- [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - A Java implementation of low-level OpenFlow packet marshalling/unmarshalling and IO operations.
-- [nettle](http://haskell.cs.yale.edu/other-projects/nettle/) - A Haskell library for working with the OpenFlow protocol.
 
 # Test
 - [oftest](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
